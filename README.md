@@ -17,7 +17,8 @@ The dataset exhibits class imbalance, with a significantly higher number of non-
 Additionally, the dataset contains some English words interspersed within the Tamil text. To ensure consistency and facilitate analysis, all English words are fully translated into Tamil using the Azure Translator service. This translation process enhances the quality and coherence of the dataset, enabling more effective training and evaluation of the classification models.
 
 <p align="center">
-<img src="https://github.com/itsmanibharathi/TamilOffText-Classify/assets/76097762/9e7a4c59-afcc-4986-be22-4dced7f03182" alt="Dataset count" width="300" height="300" align="left">
-<img src="https://github.com/itsmanibharathi/TamilOffText-Classify/assets/76097762/0af2085d-86ea-4880-b495-450b0e74936c" alt="Dataset count" width="300" height="300" >
-<img src="https://github.com/itsmanibharathi/TamilOffText-Classify/assets/76097762/6a165e6c-cef3-49e0-96b7-ba1d39d41100" alt="Dataset count" width="300" height="300" align="right" >
+<img src="https://github.com/itsmanibharathi/TamilOffText-Classify/assets/76097762/001d41e6-9cdb-4934-ba09-6d81edb8d919" alt="Dataset count" width="250" height="300" align="left">
+<img src="https://github.com/itsmanibharathi/TamilOffText-Classify/assets/76097762/0af2085d-86ea-4880-b495-450b0e74936c" alt="Dataset count" width="250" height="300" >
+<img src="https://github.com/itsmanibharathi/TamilOffText-Classify/assets/76097762/6a165e6c-cef3-49e0-96b7-ba1d39d41100" alt="Dataset count" width="250" height="300" align="right" >
 </p>
+
