@@ -1,4 +1,4 @@
-# offensive_language_classification
+# Tamil Offensive Text Classification
 ### Overview 
 This project aims to classify Tamil social media commands as offensive or non-offensive. We employ various methods including traditional machine learning algorithms and Deep learning algorithms. The dataset used for training and evaluation is collected from the HASOC fire 2020 event, comprising diverse social media comments.
 
