@@ -22,3 +22,6 @@ Additionally, the dataset contains some English words interspersed within the Ta
 <img src="https://github.com/itsmanibharathi/TamilOffText-Classify/assets/76097762/6a165e6c-cef3-49e0-96b7-ba1d39d41100" alt="Dataset count" width="250" height="300" align="right" >
 </p>
 
+
+
+
